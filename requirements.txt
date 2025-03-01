@@ -1,0 +1,9 @@
+pandas~=2.2.3
+psycopg2~=2.9.10
+dotenv~=0.9.9
+python-dotenv~=1.0.1
+matplotlib~=3.9.4
+seaborn~=0.13.2
+numpy~=2.0.2
+requests~=2.32.3
+beautifulsoup4~=4.13.3
